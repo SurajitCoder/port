@@ -1,0 +1,1 @@
+export default function StudentAvatar() { return <div>StudentAvatar Component</div>; }
