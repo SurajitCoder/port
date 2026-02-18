@@ -1,0 +1,1 @@
+export default function DeactivatedAccounts() { return <div>DeactivatedAccounts Component</div>; }
