@@ -1,0 +1,1 @@
+export default function FeesManager() { return <div>FeesManager Component</div>; }
