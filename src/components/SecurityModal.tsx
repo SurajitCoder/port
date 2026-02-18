@@ -1,0 +1,1 @@
+export default function SecurityModal() { return <div>SecurityModal Component</div>; }
