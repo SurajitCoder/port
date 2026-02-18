@@ -1,0 +1,7 @@
+{
+  "name": "BrightXLearn Portal",
+  "description": "Premium student management dashboard for BrightXLearn Computer Center. Featuring advanced tracking for attendance, fees, and exams.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
